@@ -1,8 +1,6 @@
 
 # Task 3: Writing Basic SELECT Queries
 
-## Objective
-To practice basic SQL SELECT queries to extract, filter, and sort data from a database.
 
 ## Tools Used
 - MySQL Workbench / DB Browser for SQLite
